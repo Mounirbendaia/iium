@@ -1,0 +1,48 @@
+body {
+width: 100%;
+max-width: 1300px;
+margin: 0 auto;
+
+}
+.logo {
+  float: right;
+  height: 30%;
+  width: 15%;
+
+}
+
+input {
+  float: left;
+  margin-left: 150px;
+}
+p1 {
+  float: left;
+  margin-left: 150px;
+  font-size: 30px   ;
+  border-bottom: 3px solid #00FFFF ;
+}
+button {
+  float: left;
+  margin-left: 150px;
+   padding: 5px 120px;
+}
+h1 {
+  float: left;
+  margin-left: 150px;
+
+}
+.river {
+  float: left;
+  height: 100%;
+  width: 50%;
+  clip-path: polygon(100% 50%, 0 0, 0 100%);
+
+}
+li {
+    font-family: georgia;
+    font:small-caption;
+    display: block;
+  float: right;
+  clear: both;
+    text-decoration: none;
+}
